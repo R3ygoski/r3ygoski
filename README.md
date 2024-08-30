@@ -1,5 +1,5 @@
 ### Olá me chamo Bernardo Poggioni
-Tenho 22 anos e sou um entusiasta de desenvolvimento frontend, sempre buscando aprender novas tecnologias e me aperfeiçoar na área. Meu foco é me tornar um desenvolvedor Fulltsack.
+Tenho 23 anos e sou um entusiasta de desenvolvimento frontend, sempre buscando aprender novas tecnologias e me aperfeiçoar na área. Meu foco é me tornar um desenvolvedor Fulltsack.
 
 Se quiser entrar em contato comigo, sinta-se avontade para mandar mensagem, seja pelo Linkedin ou pelo Discord. Responerei mais rápido caso seja enviada pelo **Discord**, meu usuário é **r3ygoski**. responderei assim que for possível ^^
 
