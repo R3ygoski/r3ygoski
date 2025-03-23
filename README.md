@@ -44,7 +44,7 @@ Ou me acompanhar nessas redes:
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=181818&style=for-the-badge)](https://react.dev/)
 [![Next](https://img.shields.io/badge/-NextJS-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)](https://nestjs.com/)
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge)](https://vuejs.org/)
-[![Nuxt](https://img.shields.io/badge/-NuxtJS-00DC82?logo=nuxtdotjs&logoColor=white&style=for-the-badge)](https://nuxt.com/)
+[![Nuxt](https://img.shields.io/badge/-NuxtJS-00DC82?logo=nuxt&logoColor=white&style=for-the-badge)](https://nuxt.com/)
 [![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)](https://dotnet.microsoft.com/pt-br/apps/aspnet/web-apps/blazor)
 
 [![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)](https://jestjs.io/pt-BR/)
@@ -59,6 +59,7 @@ Ou me acompanhar nessas redes:
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)](https://www.postgresql.org/)
 
 [![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge)](https://mongoosejs.com/)
+[![Prisma](https://img.shields.io/badge/-Prisma-002740?logo=prisma&logoColor=white&style=for-the-badge)](https://www.prisma.io/)
 
 ### Mobile :iphone:
 
