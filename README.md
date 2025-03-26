@@ -18,6 +18,7 @@ Gostaria de entrar em contato comigo? Sinta-se a vontade para mandar mensagem em
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bernardo-poggioni-3746a42a5)
 [![Twitter-X](https://img.shields.io/badge/-Twitter_/_X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Bernardo_pog)
+[![r3ygoski](https://img.shields.io/badge/-r3ygoski-5763ED?logo=discord&logoColor=white&style=for-the-badge)]()
 
 Ou me acompanhar nessas redes:
 
@@ -75,4 +76,4 @@ Ou me acompanhar nessas redes:
 
 ## Contribuições
 
-- Ativo na comunidade do Frontend Mentor, onde acumulei mais de 5000 pontos, ajudando outros desenvolvedores. [Perfil - Frontend Mentor](https://www.frontendmentor.io/profile/R3ygoski)
+- Ativo na comunidade do Frontend Mentor, onde acumulei mais de 6000 pontos acumulados, ajudando outros desenvolvedores. [Perfil - Frontend Mentor](https://www.frontendmentor.io/profile/R3ygoski)
