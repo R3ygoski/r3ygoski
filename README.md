@@ -39,11 +39,11 @@ Ou me acompanhar nessas redes:
 [![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
 
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
-[![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
+[![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)](https://sass-lang.com/)
 [![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge)](https://styled-components.com/)
 
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=181818&style=for-the-badge)](https://react.dev/)
-[![Next](https://img.shields.io/badge/-NextJS-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)](https://nestjs.com/)
+[![Next](https://img.shields.io/badge/-NextJS-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)](https://nextjs.org/)
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge)](https://vuejs.org/)
 [![Nuxt](https://img.shields.io/badge/-NuxtJS-00DC82?logo=nuxt&logoColor=white&style=for-the-badge)](https://nuxt.com/)
 [![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)](https://dotnet.microsoft.com/pt-br/apps/aspnet/web-apps/blazor)
