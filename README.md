@@ -6,7 +6,7 @@ Me chamo Bernardo Poggioni, tenho 23 anos e sou Desenvolvedor Fullstack.
 
 Comecei minha jornada no desenvolvimento web em 2023 e, desde então, venho criando projetos com diferentes tecnologias, tanto no frontend quanto no backend. Hoje, estou me aprofundando mais no backend, estudando especialmente NestJS, PostgreSQL e MongoDB. Ainda assim, sigo confortável e seguro no frontend, principalmente com Next.js, stack que mais me identifiquei até agora.
 
-Já experimentei vários frameworks e bibliotecas — React, Vue, Svelte, Angular, Blazor — e gosto de explorar novas ferramentas para ampliar meu repertório técnico.
+Já experimentei vários frameworks e bibliotecas, como React, Vue, Svelte, Angular e Blazor, gosto de explorar novas ferramentas para ampliar meu repertório técnico.
 
 Também estou cursando o CS50, da Universidade de Harvard, para reforçar minha base em ciência da computação, além de fazer Gestão da Tecnologia da Informação na faculdade Estácio.
 
@@ -82,4 +82,4 @@ Ou me acompanhar nessas redes:
 
 ## Contribuições
 
-- Sou colaborador ativo no [Frontend Mentor](https://www.frontendmentor.io/profile/R3ygoski), onde já acumulei mais de **6000 pontos** e **300** comentários maracados como de ajuda contribuindo com feedbacks detalhados e soluções. Inclusive tenho diversos reconhecimentos pelo Frontend Mentor de melhor mentor da semana e melhor mentor do mês.
+- Sou colaborador ativo no [Frontend Mentor](https://www.frontendmentor.io/profile/R3ygoski), onde já acumulei mais de **6000 pontos** e **300+ comentários** maracados como de ajuda contribuindo com feedbacks detalhados e soluções. Inclusive tenho diversos reconhecimentos pelo Frontend Mentor de melhor mentor da semana e melhor mentor do mês.
